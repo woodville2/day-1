@@ -84,3 +84,9 @@ my-app/
 
 Happy coding!
 Feel free to peek into any config files when you’re curious—everything you need is right here.
+
+
+
+BUILT SIMPLE PAGE WITH HEADDR, H1, AND A PARAGRAPH.
+USED PROVIDED STARTER CODE
+LEARNED HOW TO USE NPM RUN DEV AND SWITCH THE LOCAL HOST FROMM 5500 TO 3000
